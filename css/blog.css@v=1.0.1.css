@@ -1,0 +1,78 @@
+.breadcrumb{
+  background-color: #f3f4f6;
+}
+
+.breadcrumb .breadcrumb-item a{
+  color: #004165;
+  transition-duration: 500ms;
+  text-decoration: none;
+}
+
+.breadcrumb .breadcrumb-item a:hover{
+  color: #004165;
+}
+
+.blog-item .card{
+  box-shadow: none;
+}
+
+.blog-item .card-body{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.blog-item .card-title{
+  margin-bottom: 1.5rem;
+}
+
+.blog-item h2{
+  font-size: 1.5rem;
+}
+
+.blog-item a {
+  color: #004165;
+  font-weight: 700;
+  transition-duration: 500ms;
+}
+
+.blog-item a:hover {
+  color: #004165;
+  text-decoration: none;
+}
+
+.blog-item p, .blog-item ul, .blog-item ol {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.blog-item ul li, .blog-item ol li{
+  margin-bottom: 7px;
+}
+
+.blog-widget h3{
+  font-size: 1.25rem;
+  margin-bottom: 20px;
+}
+
+.blog-item h2, .blog-widget h3 {
+    border-left: 4px solid #004165;
+    padding-left: 15px;
+}
+
+.blog-widget a {
+  color: #004165;
+}
+
+.blog-widget .list-group-item {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.blog-widget a{
+  text-decoration: none;
+  transition-duration: 500ms;
+}
+
+.blog-widget a:hover {
+  color: #004165;
+}
