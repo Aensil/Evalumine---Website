@@ -47,7 +47,7 @@ let questions = [
 
   {
     numb: 4,
-    question: 'De las siguientes gráficas, la que NO corresponde a una función es: <img src="../img/Quiz/1.png" alt="Graficas" width="450" height="400">',
+    question: 'De las siguientes gráficas, la que NO corresponde a una función es: <img src="../img/Quiz/1.png" class="que_img" alt="Graficas" width="450" height="400">',
     answer: "B",
     options: [
       "A",
@@ -97,7 +97,7 @@ let questions = [
  // },
   {
     numb: 7,
-    question: 'Un docente pregunta a sus estudiantes por el método más adecuado para utilizar en el laboratorio de separación de mezclas si el objetivo es separar una disolución de sal en agua. De manera correcta sus estudiantes le contestan que el método a utilizar es: <img src="../img/Quiz/2.png" alt="Graficas" width="520" height="200">',
+    question: 'Un docente pregunta a sus estudiantes por el método más adecuado para utilizar en el laboratorio de separación de mezclas si el objetivo es separar una disolución de sal en agua. De manera correcta sus estudiantes le contestan que el método a utilizar es: <img src="../img/Quiz/2.png" class="que_img" alt="Graficas" width="520" height="200">',
     answer: "C",
     options: [
       "A",
